@@ -12,4 +12,7 @@ HELLO,WOKWI
 https://wokwi.com/projects/334977500040921682<br>
 https://wokwi.com/projects/334980975137129043
 
+potentiometer slide
+
+https://wokwi.com/projects/334982758191333971
 
