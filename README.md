@@ -16,3 +16,4 @@ potentiometer slide
 
 https://wokwi.com/projects/334982758191333971
 
+https://wokwi.com/projects/335065585212719699 :buzzer
