@@ -11,3 +11,4 @@ https://wokwi.com/projects/334982758191333971 :potentiometer slide<br>
 https://wokwi.com/projects/335065585212719699 :buzzer<br>
 https://wokwi.com/projects/335067506404229716 :BUZZER +button<br>
 https://wokwi.com/projects/335070214584533588 :ultra sonic senser<br>
+https://wokwi.com/projects/335073264458007124 :ultra sonic +buzzer
