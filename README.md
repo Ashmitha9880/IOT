@@ -15,3 +15,4 @@ https://wokwi.com/projects/335073264458007124 :ultra sonic +buzzer<br>
 https://wokwi.com/projects/335075055329346132 :varring with intensity<br>
 https://wokwi.com/projects/335611957619982931 :ultra sonic +buzzer+led<br>
 https://wokwi.com/projects/335617038976287315 :using 2 ultrasonic senser<br>
+https://wokwi.com/projects/335701335619928658 :potentiometer with LED<br>
