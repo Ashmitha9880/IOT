@@ -6,7 +6,7 @@ https://wokwi.com/projects/333801348249158228 :RGB LIGHTS<br>
 https://wokwi.com/projects/333804935094207058 :lcd<br>
 https://wokwi.com/projects/322062421191557714 :HELLO,WOKWI<br>
 https://wokwi.com/projects/334977500040921682 :servometer<br>
-https://wokwi.com/projects/335703098296107604 :servometer with buzzer<br>
+https://wokwi.com/projects/335703098296107604 :servometer with button<br>
 https://wokwi.com/projects/334980975137129043<br>
 https://wokwi.com/projects/334982758191333971 :potentiometer slide<br>
 https://wokwi.com/projects/335065585212719699 :buzzer<br>
