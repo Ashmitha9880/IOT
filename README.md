@@ -17,6 +17,9 @@ https://wokwi.com/projects/335075055329346132 :varring with intensity<br>
 https://wokwi.com/projects/335611957619982931 :ultra sonic +buzzer+led<br>
 https://wokwi.com/projects/335617038976287315 :using 2 ultrasonic senser<br>
 https://wokwi.com/projects/335702624840974931 :potentiometer with LED<br>
+
+
+
 https://wokwi.com/projects/337602055475561044 :led with buzzer<br>
 https://wokwi.com/projects/337604163653337682 :DHT22(Humidity and Temperature sensor ESP32<br>
-
+https://wokwi.com/projects/337604296859189842 :DHT22(Humidity and Temperature sensor ESP32 with LCD<br>
