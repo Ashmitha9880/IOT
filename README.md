@@ -23,3 +23,28 @@ https://wokwi.com/projects/335702624840974931 :potentiometer with LED<br>
 https://wokwi.com/projects/337602055475561044 :led with buzzer<br>
 https://wokwi.com/projects/337604163653337682 :DHT22(Humidity and Temperature sensor ESP32<br>
 https://wokwi.com/projects/337604296859189842 :DHT22(Humidity and Temperature sensor ESP32 with LCD<br>
+
+
+int ldr=A0;//Set A0(Analog Input) for LDR.<br><br>
+ int value=0;<br><br>
+ int led=D1;<br><br>
+ void setup() {<br><br>
+ Serial.begin(9600);<br><br>
+ pinMode(led,OUTPUT);<br><br>
+ }<br><br>
+</br>
+     void loop() {<br><br>
+     value=analogRead(ldr);//Reads the Value of LDR(light).<br><br>
+     Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.<br><br>
+     Serial.println(value);<br><br>
+     if(value<50)<br><br>
+       {<br>
+         digitalWrite(led,HIGH);//Makes the LED glow in Dark.<br>
+       }<br>
+       else<br>
+       {<br>
+         digitalWrite(led,LOW);//Turns the LED OFF in Light.<br>
+       }<br>
+       delay(1000);<br>
+     }<br>
+    <br>
