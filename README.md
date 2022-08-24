@@ -48,3 +48,13 @@ int ldr=A0;//Set A0(Analog Input) for LDR.<br><br>
        delay(1000);<br>
      }<br>
     <br>
+
+
+https://wokwi.com/projects/340775764469219922 - LED_CHASER<br>
+https://wokwi.com/projects/340776572602548818 - LDR<br>
+https://wokwi.com/projects/340776926585029204 - LDR_LED<br>
+https://wokwi.com/projects/340779619162522195 - IR_LED<br>
+
+ESP32<br>
+https://wokwi.com/projects/336966830711112275 - LED<br>
+https://wokwi.com/projects/336967978479256147 - 3 LED<br>
