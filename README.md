@@ -77,4 +77,5 @@ https://wokwi.com/projects/340892440485429842 - DHT22
 https://wokwi.com/projects/340893919446303316 - LED CHASER
 https://wokwi.com/projects/340936317213868626 - LDR
 https://wokwi.com/projects/340936847717827156 - LDR + LED
-https://wokwi.com/projects/342584509610328659 -  Seven segment LED 
+https://wokwi.com/projects/342584509610328659 - Seven segment LED 
+https://wokwi.com/projects/296234816685212169 - MAX7219 LED Dot Matrix jyostick
